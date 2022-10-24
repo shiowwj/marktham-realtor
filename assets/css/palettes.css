@@ -1,0 +1,13 @@
+:root {
+
+    --template-primary-light: #FFFFFF;
+    --template-secondary-light: #F5F5FC;
+
+    --template-primary-dark: #232329;
+    --template-secondary-dark: #000000;
+
+    --template-alt-green: #C3FF76;
+    --template-alt-orange: #F9B61A;
+    --template-alt-blue: #13346E;
+    --template-alt-gold: #FFD700 ;
+}

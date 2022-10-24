@@ -1,0 +1,34 @@
+{
+    "services": [
+        {
+            "title": "Curated Home Report",
+            "description": "A detailed, comprehensive report which includes the latest indicative value of your property. This report helps you in price positioning.",
+            "icon": "report-icon.svg"
+        },
+        {
+            "title": "Indepth Market Research Anaylsis",
+            "description": "Using the right powerful research tools to help you make an informed decision in your real estate journey.",
+            "icon": "chart-icon.svg"
+        },
+        {
+            "title": "Asset Planning and Management",
+            "description": "Planning and managing your property portfolio hand-in-hand, to achieve long term returns tailored to your best interest and needs.",
+            "icon": "building-icon.svg"
+        },
+        {
+            "title": "Curated Home Report",
+            "description": "A detailed, comprehensive report which includes the latest indicative value of your property. This report helps you in price positioning.",
+            "icon": "report-icon.svg"
+        },
+        {
+            "title": "Indepth Market Research Anaylsis",
+            "description": "Using the right powerful research tools to help you make an informed decision in your real estate journey.",
+            "icon": "chart-icon.svg"
+        },
+        {
+            "title": "Asset Planning and Management",
+            "description": "Planning and managing your property portfolio hand-in-hand, to achieve long term returns tailored to your best interest and needs.",
+            "icon": "building-icon.svg"
+        }
+    ]
+}
